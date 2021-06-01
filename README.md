@@ -2,5 +2,6 @@
 Prueba instituto patagónico
 
 Hola qué tal, ¿Cómo te va?
+mal
 
 Me llamo ivancito, esto es un texto nuevo
